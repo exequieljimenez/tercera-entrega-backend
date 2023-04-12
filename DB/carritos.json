@@ -1,0 +1,1 @@
+[{"id":1,"productos":[{"nombre":"Felpas","precio":2300},{"nombre":"Crayones","precio":4200}]},{"id":2,"productos":[{"nombre":"Marcador","precio":900},{"nombre":"Plasticola","precio":870}]},{"id":3,"productos":[{"id":2,"nombre":"lapiz","precio":250},{"id":1,"nombre":"lapicera","precio":300}]}]
